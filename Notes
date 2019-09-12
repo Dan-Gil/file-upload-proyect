@@ -1,0 +1,8 @@
+
+Intalación Multer (es un middleware)
+ npm i --save multer
+
+Se crea el formulario en index.hbs, se llaman a las rutas agregando a multer
+Define el schema
+
+bodyparser? es un middleware que va a interpretar en algo legible para el body
